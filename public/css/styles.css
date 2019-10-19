@@ -5,18 +5,14 @@
 
 table {
     border: 1px solid #000000;
-    width: 600px;
+    width: 700px;
     margin: 10px auto;
 }
 
 th {
-    border-bottom: 1px double #000000;
+    border-bottom: 3px double #000000;
 }
 
-tr {
+tbody td {
     border-bottom: 1px dashed #000000;
-}
-
-tr:last-child {
-    border-bottom: none;
 }
